@@ -23,7 +23,7 @@ Classe abstrata ContaBancaria define os métodos abstratos saque, depósito e co
    - Baixe e siga as instruções de instalação para a IDE escolhida.
 3. Crie e execute o projeto:
    - Abra a IDE e crie um novo projeto Java.
-   - Adicione as classes "Produto" e "Pessoas".
+   - Adicione as classes.
    - Compile e execute o projeto pelo método "main".
 
 # 🛠 Construído com 
